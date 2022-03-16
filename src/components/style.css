@@ -1,0 +1,22 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(191, 22, 61);
+  height: 100px;
+}
+.logo-image {
+  margin-top: 5px;
+  height: 80px;
+}
+.navbar {
+  display: flex;
+  flex-direction: row;
+  color: white;
+  font-weight: 500;
+  margin-top: 75px;
+}
+.navbar-button {
+  padding: 0px 30px;
+  border-right: 1px solid white;
+  cursor: pointer;
+}
